@@ -1,22 +1,10 @@
+<h1 align="center">Variable L0 Guidance Strategy</h1>
 
+<p align="center">Enlarged operational envelope and path following for UAVs with a time-varying look-ahead distance.</p>
 
-https://github.com/user-attachments/assets/ee2124e2-2c4d-45d0-9bcf-57fa66472d52
+<p align="center"><video src="https://github.com/user-attachments/assets/ee2124e2-2c4d-45d0-9bcf-57fa66472d52" width="800" controls muted></video></p>
 
-
-
-Uploading variableL0_sample.mp4…
-
-
-
-https://github.com/user-attachments/assets/f4ab9ea3-c20e-4d91-afce-f84cbe338547
-
-
-
-
-
-# Variable L0 Guidance Strategy
-
-Enlarged operational envelope and path following for UAVs with a time-varying look-ahead distance.
+<p align="center"><em>Sample flight-test footage of a fixed-wing UAV: hand launch, flight, and ground-station telemetry.</em></p>
 
 **Paper:** A. Shivam, M. C. R. M. Fernandes, F. A. C. C. Fontes, L. Fagiano, "Variable L0 Guidance Strategy: Enlarged Operational Envelope and Path-Following," IFAC World Congress, 2026 (accepted). [arXiv:2512.06124](https://arxiv.org/abs/2512.06124)
 

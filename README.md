@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/d69280d1-34e2-484b-9584-07b9166f81bd
+
 # Variable L0 Guidance Strategy
 
 Enlarged operational envelope and path following for UAVs with a time-varying look-ahead distance.

@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/f4ab9ea3-c20e-4d91-afce-f84cbe338547
 
 
 
-https://github.com/user-attachments/assets/d69280d1-34e2-484b-9584-07b9166f81bd
+
 
 # Variable L0 Guidance Strategy
 
@@ -14,6 +14,6 @@ Enlarged operational envelope and path following for UAVs with a time-varying lo
 
 **Idea:** A fixed look-ahead distance can push the turn rate into its limit when heading or cross-track errors are large. A look-ahead that varies exponentially over time widens the range of error conditions where the turn rate stays within limits, by more than 70% in the paper's representative settings, with smoother trajectories and lower control effort on straight-line and elliptical paths.
 
-**Status:** Code, flight-test videos and logs will be added after co-author approval.
+**Status:** The sample flight-test clip above shows the fixed-wing test. Code and flight logs will be added after co-author approval.
 
 **Author:** Amit Shivam, University of Porto. Website: https://sites.google.com/view/amit-shivam/home

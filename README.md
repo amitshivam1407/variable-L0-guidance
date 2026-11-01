@@ -2,7 +2,7 @@
 
 <p align="center">Enlarged operational envelope and path following for UAVs with a time-varying look-ahead distance.</p>
 
-<p align="center"><video src="https://github.com/user-attachments/assets/ee2124e2-2c4d-45d0-9bcf-57fa66472d52" width="800" controls muted></video></p>
+https://github.com/user-attachments/assets/ee2124e2-2c4d-45d0-9bcf-57fa66472d52
 
 <p align="center"><em>Sample flight-test footage of a fixed-wing UAV: hand launch, flight, and ground-station telemetry.</em></p>
 

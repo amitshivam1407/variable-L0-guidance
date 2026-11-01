@@ -14,6 +14,6 @@ Enlarged operational envelope and path following for UAVs with a time-varying lo
 
 **Idea:** A fixed look-ahead distance can push the turn rate into its limit when heading or cross-track errors are large. A look-ahead that varies exponentially over time widens the range of error conditions where the turn rate stays within limits, by more than 70% in the paper's representative settings, with smoother trajectories and lower control effort on straight-line and elliptical paths.
 
-**Status:** The sample flight-test clip above shows the fixed-wing test. Code and flight logs will be added after co-author approval.
+**Status:** The sample flight-test clip above shows the fixed-wing test. Code and flight logs will be added very soon.
 
 **Author:** Amit Shivam, University of Porto. Website: https://sites.google.com/view/amit-shivam/home

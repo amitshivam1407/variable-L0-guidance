@@ -12,4 +12,4 @@ https://github.com/user-attachments/assets/ee2124e2-2c4d-45d0-9bcf-57fa66472d52
 
 **Status:** The sample flight-test clip above shows the fixed-wing test. Code and flight logs will be added very soon.
 
-**Author:** Amit Shivam, University of Porto. Website: https://sites.google.com/view/amit-shivam/home
+**Author:** Amit Shivam, University of Porto.
